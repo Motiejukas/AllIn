@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Valiutu keitykla</title>
+</head>
+<body>
+<h1>Valiutu keitykla</h1>
+<form method="POST">
+
+<label for="add">From:</label><br>
+<select name="add" id="add">
+    {% for cur in currencies %}
+    <option value="{{ cur }}">{{ cur }}</option>
+    {% endfor %}
+</select><br>
+
+<label for="to">To:</label><br>
+<select name="to" id="to">
+    {% for cur in currencies %}
+    <option value="{{ cur }}">{{ cur }}</option>
+    {% endfor %}
+</select><br>
+
+<label for="amount"> Amount:</label><br>
+<input name="amount"><br><br>
+<input value="Submit" type="submit">
+</form>
+<h3>{{ res }}</h3>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Aplinkos kintamieji/.idea/Aplinkos kintamieji.iml" filepath="$PROJECT_DIR$/../Aplinkos kintamieji/.idea/Aplinkos kintamieji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Beautifull soup/.idea/Beautifull soup.iml" filepath="$PROJECT_DIR$/../Beautifull soup/.idea/Beautifull soup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Biudzetendzijus/.idea/Biudzetendzijus.iml" filepath="$PROJECT_DIR$/../Biudzetendzijus/.idea/Biudzetendzijus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Email siuntimas/.idea/Email siuntimas.iml" filepath="$PROJECT_DIR$/../Email siuntimas/.idea/Email siuntimas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Flask/.idea/Flask.iml" filepath="$PROJECT_DIR$/../Flask/.idea/Flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Iters and getters/.idea/Iters and getters.iml" filepath="$PROJECT_DIR$/../Iters and getters/.idea/Iters and getters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LAISVALAIKIO PAMASTYMAI.py/.idea/LAISVALAIKIO PAMASTYMAI.py.iml" filepath="$PROJECT_DIR$/../LAISVALAIKIO PAMASTYMAI.py/.idea/LAISVALAIKIO PAMASTYMAI.py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OS modelis/.idea/OS modelis.iml" filepath="$PROJECT_DIR$/../OS modelis/.idea/OS modelis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pillow/.idea/Pillow.iml" filepath="$PROJECT_DIR$/../Pillow/.idea/Pillow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Curency/curency_converter/.idea/curency_converter.iml" filepath="$PROJECT_DIR$/../Curency/curency_converter/.idea/curency_converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dirbame su nuotraukomis.iml" filepath="$PROJECT_DIR$/.idea/dirbame su nuotraukomis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../enup,pep,versijavimas/.idea/enup,pep,versijavimas.iml" filepath="$PROJECT_DIR$/../enup,pep,versijavimas/.idea/enup,pep,versijavimas.iml" />
+    </modules>
+  </component>
+</project>
